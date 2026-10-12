@@ -1,0 +1,10 @@
+{
+  "description": "Showcase luxury real estate properties with personalized guidance, expert services, and an elegant portfolio to enhance client engagement and trust.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
